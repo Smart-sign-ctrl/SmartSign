@@ -1,0 +1,15 @@
+export default {
+  icGallery: require('../assets/images/gallery.png'),
+  icFlash: require('../assets/images/flash.png'),
+  icCameraCircle: require('../assets/images/CameraCircle.png'),
+  icCloseSquare: require('../assets/images/close-square.png'),
+  icCamStorie: require('../assets/images/CamStorie.png'),
+  icLogo: require('../assets/images/icLogo.png'),
+  icBack: require('../assets/images/icBack.png'),
+  icRightArrow: require('../assets/images/icRightArrow.png'),
+  icUser: require('../assets/images/icUser.png'),
+  icBot: require('../assets/images/icBot.png'),
+  icCamera: require('../assets/images/camera.png'),
+  icChat: require('../assets/images/icChat.png'),
+  icContact: require('../assets/images/icContact.png'),
+};
